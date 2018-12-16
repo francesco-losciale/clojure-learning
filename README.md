@@ -1,6 +1,7 @@
 # exercise
 
-A Clojure library designed to ... well, that part is up to you.
+Practice on Clojure syntax 
+https://clojure.org/guides/learn/syntax
 
 ## Usage
 
