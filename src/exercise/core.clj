@@ -1,3 +1,4 @@
+(use 'clojure.repl)
 (ns exercise.core)
 
 ; alt+shift+p send line to REPL
@@ -20,7 +21,7 @@
 (def greet (fn [] (print "Hello2")))
 (greet)
 
-(def greet #("Hello3"))
+; (def greet #("Hello3"))                                   ; uncomment this and see the error
 (greet)
 
 
